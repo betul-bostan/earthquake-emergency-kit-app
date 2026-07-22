@@ -96,7 +96,7 @@ Provides the graphical user interface and handles:
 - Object-Oriented Programming
 - Event-driven programming
 
-The project file targets .NET Framework 4.8.1 and is configured as a Windows executable. :contentReference[oaicite:1]{index=1}
+The project file targets .NET Framework 4.8.1 and is configured as a Windows executable.
 
 ## Repository Structure
 
